@@ -46,5 +46,3 @@ Network Trash Folder
 Temporary Items
 .apdisk
 *.txt
-# Python Notebook checkpoints
-.ipynb_checkpoints
