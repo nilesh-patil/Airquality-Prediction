@@ -47,4 +47,4 @@ Temporary Items
 .apdisk
 *.txt
 
-code\.ipynb_checkpoints\*
+code/.ipynb_checkpoints/*.ipynb
